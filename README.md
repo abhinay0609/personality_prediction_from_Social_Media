@@ -1,5 +1,5 @@
 # personality_prediction_from_Social_Media
-Internpro AI ML Internship Week 1 ( work )
+Internpro AI ML Internship work upto week 2
 
 This repository contains my work upto week 2 for the InternPro AI/ML Internship (June 2025).
 ## 📅 Week 1 Summary
