@@ -34,7 +34,9 @@ This repository contains my work  for the InternPro AI/ML Internship (June 2025 
 - 🤖 Built an end-to-end NLP-based machine learning model to predict MBTI personality types from raw social media posts.
 - 🧠 Explored multiple models (Logistic Regression, SVM, RBF SVM), applied class balancing, and tuned hyperparameters for fair classification.
 - 📈 Achieved 65% accuracy and 0.52 macro F1-score with Logistic Regression — showing significant handling of imbalanced classes.
-- 💾 Successfully saved model artifacts (.pkl files) for future deployment (e.g., Streamlit or Flask).
+- 💾 Successfully saved model artifacts (.pkl files) and deployed. (e.g., Streamlit )
 
-
+## 📅 Final App Deployed
+- # 🚀[ MyApp ](https://personalitypredictionfromsocialmedia.streamlit.app/)
+  
 
